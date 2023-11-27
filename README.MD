@@ -18,4 +18,4 @@ A interface do "To-Do List" apresenta um design limpo e minimalista. A utilizaç
 
 ## Relatório do Projeto
 
-Para obter mais detalhes sobre o desenvolvimento do projeto, consulte o [Relatório Completo do Projeto](hhttps://drive.google.com/file/d/1-Gz1t_x-alIDVO7Mw32SIUSEyqPCZYXk/view?usp=sharing).
+Para obter mais detalhes sobre o desenvolvimento do projeto, consulte o [Relatório Completo do Projeto](https://drive.google.com/file/d/1-Gz1t_x-alIDVO7Mw32SIUSEyqPCZYXk/view?usp=sharing).
